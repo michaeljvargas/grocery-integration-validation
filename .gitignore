@@ -183,3 +183,10 @@ cython_debug/
 # Raw datasets
 data/raw/
 
+# Local database
+*.db
+
+data/raw/
+*.db
+
+data/processed/
